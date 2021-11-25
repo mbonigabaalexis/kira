@@ -1,0 +1,12 @@
+[Global Properties]
+Width=504
+Height=90
+Loop Infinitely=1
+Loop Times=1
+Output GIF File Name=C:\Users\Administrator\Desktop\shal.gif
+Frames=4
+[Frame Properties]
+FRAME001=67;YES;16777215;Sb.jpg;C:\Users\Administrator\Desktop\
+FRAME002=67;YES;16777215;n.jpg;C:\Users\Administrator\Desktop\
+FRAME003=67;YES;16777215;advt.jpg;C:\xampp\htdocs\roject\Images\
+FRAME004=67;YES;16777215;bnmJPG.JPG;C:\xampp\htdocs\roject\Images\
